@@ -21,3 +21,9 @@ I'm pretty sure you know the rest. I saved a bunch of people, fell in love, save
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tunaeskanaytac)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tunaeskanaytac&show_icons=true&theme=dracula&locale=en" alt="tunaeskanaytac" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tunaeskanaytac&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tunaeskanaytac" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tunaeskanaytac&theme=dark" alt="tunaeskanaytac" /></p>
